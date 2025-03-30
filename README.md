@@ -1,2 +1,2 @@
 # IMEI-BALCKBIRD
-Must be a fenerator of IMEI 
+Must be a generator of IMEI 
